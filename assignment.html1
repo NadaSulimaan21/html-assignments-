@@ -1,0 +1,55 @@
+<!--
+
+    Html : hypertext makeup language 
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="Description" content="This Is Description For My First Page">
+    <title>My first page</title>
+   
+    <style></style>
+
+    <script></script>
+    <link rel="" href="">
+</head>
+
+<body>
+    <h1>This Is My First Page </h1>
+</body>
+
+</html>
+
+<!--
+    Question 01 = No
+    Question 02 = yes
+    Question 03 = No
+    Question 04 = No
+-->
+
+<!DOCTYPE html>
+<html >
+<head>
+    <!-- charset نوع ال contect بتاعي
+        ا -->
+    <meta charset="UTF-8">
+
+    <!--
+        name وصف للبيدج بس مش مفصل 
+        content بتدي وصف اكتر 
+    -->
+    <meta name="Discreption" content="">
+     <!--
+         view port  ياخد حجم المكان اللى بيشتغل فيه 
+     -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   
+</head>
+<body>
+    
+</body>
+</html>
